@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Cyber Security:</h2>
 
+- <b>Automation Projets (Script)</b>
+  - [Automation of Nmap Pentesting Project](https://github.com/AmimMohammad/NmapScan-Simple)
+  - [Automation of Port Scanning Pentesting Project](https://github.com/AmimMohammad/Port-Scan-Simple)
+  
 - <b>Python (Trading and Accounting)</b>
   - [Cryptocurrency Arbitrage Trading](https://github.com/AmimMohammad/Bumi/) <b><i></b>
 - <b>RedTeaming</b>
