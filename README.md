@@ -26,16 +26,16 @@
 - [TryHackMe Pre Security Learning](https://imgur.com/jmqxZFb)
 - [CCNP Enterprise Networking Acedemy](https://imgur.com/mAQq7Fl)
 
-<h2>⏳ Certifications and BootCamps In Progress</h2>
-- [TryHackMe SOC 1]
-- [TryHackMe SOC 2]
-- [TryHackMe Pentest+]
-- [TryHackMe Security Engineer]
-- [Comptia SY 701+]
-- [Comptia PT 02+]
-- [Comptia CYSA+]
-- [Comptia Linux+]
-- [IBM Machine Learning]
+<h2>⏳ Certifications and BootCamps .....In Progress</h2>
+- TryHackMe SOC 1 <br/>
+- TryHackMe SOC 2 <br/>
+- TryHackMe Pentest+ <br/>
+- TryHackMe Security Engineer <br/>
+- Comptia SY 701+ <br/>
+- Comptia PT 02+<br/>
+- Comptia CYSA+<br/>
+- Comptia Linux+<br/>
+- IBM Machine Learning<br/>
 
 
 <h2> 🤳 Connect with me:</h2>
