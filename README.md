@@ -10,11 +10,27 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Python (Encryption and Cryptography)</b>
-  - [Ransomware Proof of Concept (Encrypter - Decrypter)]()
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Ransomware Proof of Concept (Encrypter - Decrypter)](https://github.com/AmimMohammad/PoC-Enc-Dec-Python)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Active Directory</b>
   - [Exploiting Active Directory](https://github.com/AmimMohammad/Active-Directory-Exploitation)
+ 
+<h2>🥇 Certifications</h2>
+
+- [TryHackMe Introduction to Cyber Security](https://imgur.com/AjY6uSI)
+- [TryHackMe Pre Security Learning](https://imgur.com/jmqxZFb)
+- [CCNP Enterprise Networking Acedemy](https://imgur.com/mAQq7Fl)
+
+<h2>⏳ Certifications and BootCamps In Progress</h2>
+- [TryHackMe SOC 1]
+- [TryHackMe SOC 2]
+- [TryHackMe Pentest+]
+- [TryHackMe Security Engineer]
+- [Comptia SY 701+]
+- [Comptia PT 02+]
+- [Comptia CYSA+]
+- [Comptia Linux+]
+- [IBM Machine Learning]
 
 
 <h2> 🤳 Connect with me:</h2>
