@@ -16,7 +16,7 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Active Directory</b>
-  - [Exploiting Active Directory](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Exploiting Active Directory](https://github.com/AmimMohammad/Active-Directory-Exploitation)
 
 <h2>📺 Popular YouTube Videos</h2>
 
