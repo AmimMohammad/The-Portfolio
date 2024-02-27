@@ -11,13 +11,13 @@
   - [Cryptocurrency Arbitrage Trading](https://github.com/AmimMohammad/Bumi/) <b><i></b>
 - <b>RedTeaming</b>
   - [Linux Privilege Escalation](https://github.com/AmimMohammad/Linux-Privilege-Escalation)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [JWipe (Disk Wiping Utility)](https://github.com/AmimMohammad/Jwipe-Disk-Sanitization)
+  - [Active Directory Bulk User Creation]......In Progress
 - <b>Python (Encryption and Cryptography)</b>
   - [Ransomware Proof of Concept (Encrypter - Decrypter)](https://github.com/AmimMohammad/PoC-Enc-Dec-Python)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Keylogger with Email Capability]....In Progress
 - <b>Active Directory</b>
+  - [Active Directory Configuration --> DNS, DHCP, DC](https://github.com/AmimMohammad/AD-DNS-DHCP-DC-Configuration)
   - [Exploiting Active Directory](https://github.com/AmimMohammad/Active-Directory-Exploitation)
  
 <h2>🥇 Certifications</h2>
@@ -40,8 +40,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Amim Mohammad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Amim Mohammad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/Amim99737016
 [linkedin]: https://www.linkedin.com/in/mohammad-amim/
