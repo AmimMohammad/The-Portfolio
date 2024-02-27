@@ -5,6 +5,7 @@
 - <b>Automation Projets (Script)</b>
   - [Automation of Nmap Pentesting Project](https://github.com/AmimMohammad/NmapScan-Simple)
   - [Automation of Port Scanning Pentesting Project](https://github.com/AmimMohammad/Port-Scan-Simple)
+  - [Automation of CyberSecurity News Project](https://github.com/AmimMohammad/Cybersecurity-News-and-Updates---Simple)
   
 - <b>Python (Trading and Accounting)</b>
   - [Cryptocurrency Arbitrage Trading](https://github.com/AmimMohammad/Bumi/) <b><i></b>
