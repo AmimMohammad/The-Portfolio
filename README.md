@@ -8,7 +8,8 @@
   - [Automation of CyberSecurity News Project](https://github.com/AmimMohammad/Cybersecurity-News-and-Updates---Simple)
   
 - <b>Python (Trading and Accounting)</b>
-  - [Cryptocurrency Arbitrage Trading](https://github.com/AmimMohammad/Bumi/) <b><i></b>
+  - [Cryptocurrency Arbitrage Trading](https://github.com/AmimMohammad/Bumi/) 
+  - [Fintech Loan Calculator](https://github.com/AmimMohammad/Loan-Eligibility) 
 - <b>RedTeaming</b>
   - [Linux Privilege Escalation](https://github.com/AmimMohammad/Linux-Privilege-Escalation)
   - [JWipe (Disk Wiping Utility)](https://github.com/AmimMohammad/Jwipe-Disk-Sanitization)
